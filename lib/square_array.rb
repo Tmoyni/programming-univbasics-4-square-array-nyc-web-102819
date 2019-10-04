@@ -8,6 +8,7 @@
 #end
 
 def square_array(array)
+  square = []
   counter = 0
  
   while array[counter] do
