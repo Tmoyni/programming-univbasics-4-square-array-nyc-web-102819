@@ -13,7 +13,7 @@ def square_array(array)
  
   while array[counter] do
   puts array[counter]
-  square 
+  square << array[count]
   counter += 1
   end
 end
